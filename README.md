@@ -2,6 +2,9 @@
 ## Modalità scalata
 
 **componenti del gruppo** 
+
 Flavio Filippo Parrotta - 
+
 Floriano Francesco - 
-De Lucia Simone 
+
+De Lucia Simone -
